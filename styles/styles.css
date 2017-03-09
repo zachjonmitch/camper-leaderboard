@@ -1,0 +1,20 @@
+body {
+    background: url(https://goo.gl/JATLOD);
+    font-family: 'Raleway' !important;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #0e1d33;
+}
+
+.btn {
+    margin: 10px;
+    padding: 9px 28px !important;
+    background: transparent !important;
+    margin-bottom: 30px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    border: 2px solid grey !important;
+    outline: none !important;
+}
