@@ -1,18 +1,14 @@
+# Camper Leaderboard
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+   A collection of the top 100 recent and all time Free Code Camp users
+   
+## User Stories:
 
+   1. I can see a table of the Free Code Camp campers who've earned the most brownie points in the past 30 days.<br>
+   2. I can see how many brownie points they've earned in the past 30 days, and how many they've earned total.<br>
+   3. I can toggle between sorting the list by how many brownie points they've earned in the past 30 days and by how many brownie points they've earned total.<br>
+   
+## Relative Links:
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+    https://fcctop100.herokuapp.com/api/fccusers/top/recent
+    https://fcctop100.herokuapp.com/api/fccusers/top/alltime
